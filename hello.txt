@@ -1,7 +1,4 @@
 hello!
 This file has been connected with GitHub.
-<<<<<<< HEAD
 This file is belonged to seconed_clone.
-=======
 Creating a new branch is quick AND simple.
->>>>>>> feature1
