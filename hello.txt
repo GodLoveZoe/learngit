@@ -4,3 +4,4 @@ This file is belonged to seconed_clone.
 Creating a new branch is quick AND simple.
 This file is belonged to first_clone.
 I am a new content.
+2018/7/20:9:13.
